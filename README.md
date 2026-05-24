@@ -58,6 +58,6 @@ The model achieved strong performance on the test dataset with minimal misclassi
 
 **Repository Contents**
 
-AIT_736_FinalProject.ipynb – Model implementation, training, and evaluation
+MNIST-Handwritten-Digit-Classification.ipynb – Model implementation, training, and evaluation
 
-AIT_736_FinalProject.html – Exported notebook for easy viewing
+MNIST-Handwritten-Digit-Classification.html – Exported notebook for easy viewing
